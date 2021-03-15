@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Seu</string>
+    <string name="sign_in">Sign In</string>
+    <string name="user">User</string>
+    <string name="password">Password</string>
+    <string name="language">ქართული</string>
+    <string name="app_condition_text">© 2019 ini.ge All right Reserved</string>
+</resources>
