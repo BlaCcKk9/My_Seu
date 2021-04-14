@@ -1,8 +1,16 @@
 <resources>
     <string name="app_name">My Seu</string>
-    <string name="sign_in">Sign In</string>
-    <string name="user">User</string>
-    <string name="password">Password</string>
-    <string name="language">ქართული</string>
-    <string name="app_condition_text">© 2019 ini.ge All right Reserved</string>
+    <string name="sign_in">ავტორიზაცია</string>
+    <string name="btn_sign_in">შესვლა</string>
+    <string name="user">მომხმარებელი</string>
+    <string name="password">პაროლი</string>
+    <string name="language">ინგლისური</string>
+    <string name="app_condition_text">© 2019 ini.ge ყველა უფლება დაცულია</string>
+    <string name="incorrect_password_user_message">მომხმარებელი ან პაროლი არასწორია</string>
+    <string name="enter_pin">შეიყვანეთ პინი</string>
+    <string name="wrong_pin">პინი არასწორია</string>
+    <string name="answer_yes">კი</string>
+    <string name="answer_no">არა</string>
+    <string name="cancel_pin_message">ნამდვილად გსურთ დამახსოვრებული ავტორიზაციის გათიშვა?</string>
+    <string name="logout_message">ნამდვილად გსურთ გამოსვლა?</string>
 </resources>

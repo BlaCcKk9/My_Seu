@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Seu</string>
+    <string name="sign_in">Sign In</string>
+    <string name="btn_sign_in">Sign In</string>
+    <string name="user">User</string>
+    <string name="password">Password</string>
+    <string name="language">ქართული</string>
+    <string name="app_condition_text">© 2019 ini.ge All right Reserved</string>
+    <string name="incorrect_password_user_message">User or password is incorrect</string>
+    <string name="enter_pin">Enter pin</string>
+    <string name="wrong_pin">wrong password</string>
+    <string name="answer_yes">Yes</string>
+    <string name="answer_no">No</string>
+    <string name="cancel_pin_message">Are you sure you want remove the biometry authentication?</string>
+    <string name="logout_message">Are you sure you want to Sign Out?</string>
+</resources>
+
+
